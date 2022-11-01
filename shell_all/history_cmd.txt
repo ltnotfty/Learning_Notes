@@ -1,0 +1,1004 @@
+vi
+ls
+sudo apt-get install tmux
+tmux
+ls
+vim /etc/default/grub 
+sudo apt install vim
+vim /etc/default/grub 
+ls
+sudo grup-reboot 2
+sudo vim /etc/default/grub 
+update-grub
+sudo update-grup
+sudo update-grub
+sudo grub-set-default 0
+sudo grub-reboot 2
+sudo reboot
+ls
+sudo apt-get install git
+exit
+apt-get install get
+sudo apt-get install git
+ps aux | grep -i apt
+sudo kill 1127
+ps aux | grep -i apt
+sudo apt-get install git
+ps aux | grep -i apt
+sudo reboot
+sudo apt-get install git
+ls
+mkdir test
+ls
+cd ..
+ls
+cd ~
+ls
+sudo apt-get update 
+ifconfig
+ls
+vi
+ls
+man vi
+ls
+man bash
+sudo apt-get install tmux 
+ls
+sudo shutdown 
+sudo poweroff 
+ls
+pwd
+ls
+vim 
+ls
+vim 
+ls
+sudo vim /etc/default/grub 
+sudo update-grub
+sudo grub-set-default 0
+sudo grub-reboot 1
+sudo reboot
+ls
+sudo reboot
+q
+quit
+ls
+man tmux
+tmux 
+exit
+exi
+exit
+ls
+ls -al
+ls -a
+ls
+exit
+ls
+cd Learning_Notes/
+ls
+cd ..
+ls
+cd C-Web-Server/
+ls
+cd ..
+ls
+cd ..
+ls
+l
+ll
+ls
+cd Downloads/
+ls
+cd ..
+ls
+cd Downloads/
+ls
+man dpkg-deb 
+man dpkg
+ls
+dpkg -i com.alibabainc.dingtalk_1.4.0.20829_amd64.deb 
+sudo dpkg -i com.alibabainc.dingtalk_1.4.0.20829_amd64.deb 
+ls
+info tmux
+ls
+ls -a
+cd ..
+ls
+create
+man printf
+man snprintf
+man sprintf
+info sprintf
+uname -r
+echo $PATH
+od
+man id
+man od
+ls
+od Desktop/
+od Music/
+od Downloads/
+ls
+cd Downloads/
+ls
+od com.alibabainc.dingtalk_1.4.0.20829_amd64.deb 
+ls
+man SHA-a
+man SHA-1
+man file
+ks
+ls
+source 
+./
+ls
+g++ 
+sudo apt install g++
+gcc 
+ls
+cd ..
+ls
+man 
+ls
+cd Notes/
+ls
+git stau
+git status 
+ls
+cd toolusing/
+vim git_using 
+ls
+git status 
+exit
+ls
+git status 
+ls
+cd ..
+ls
+cd ..
+ls
+cd test/.
+ls
+git log
+git cat -t a5ac
+git cat-file  -t a5ac
+git cat-file commit 2fe
+git cat-file commit 2feab
+git cat-file commit 2fea
+git cat-file blob 2fea
+git cat-file blob 2feab994
+git cat-file blob 2feab994a2d
+git cat-file blob 2feab994a2d2bb
+git cat-file initial 2feab99
+git cat-file `initial commit` 2feab99
+exit
+sudo apt-get update 
+sudo apt install fcitx
+sudo dpkg --configure -a
+sudo apt install fcitx
+sudo apt update 
+ls
+cd 
+ls
+cd Downloads/
+ls
+cd ..
+ls
+mkdir Notes
+ls
+cd Notes/
+ls
+git clone https://github.com/ltnotfty/Learning_Notes.git
+sudo git clone https://github.com/ltnotfty/Learning_Notes.git
+sudo git clone git://github.com/ltnotfty/Learning_Notes.git
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+sudo git clone git://github.com/ltnotfty/Learning_Notes.git
+cd ..
+ls
+cd Downloads/
+ls
+wget https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_linux-arm64.zip
+history 
+cd ..
+ls
+cd Notes/
+ls
+sudo git clone git://github.com/ltnotfty/Learning_Notes.git
+sudo git clone https://github.com/ltnotfty/Learning_Notes.git
+ls
+git clone https://github.com/bloominstituteoftechnology/C-Web-Server.git
+ls
+man gittutorial-2 
+ls
+man gittutorial-2 
+xit
+exit
+ls
+cd ..
+ls
+cd ..
+ls
+cd test/
+ls
+echo 'initial commit' > file.txt
+ls
+git init .
+ls
+git status 
+git add .
+git status 
+git commit -a -m "initial commit" 
+git config --local user.name "ltnotfty"
+git config --local user.email "ltnotfty@126.com"
+git commit -a -m "initial commit" 
+echo 'hello world' > file.txt 
+git commit -a -m  "add emphais"
+git show
+man tmux 
+ls
+git status 
+git branch
+ls
+man gittutorial-2
+ls
+ks
+which man
+ls
+vim
+ls
+tmux 
+ls
+cd Notes/
+ls
+git init .
+ls
+mkdir toolusing
+ls
+cd toolusing/
+ls
+vim git_using
+ls
+cd ..
+ls
+git status 
+git commit -a
+git status 
+git config --local user.email "ltnotfty@126.com"
+git config --local user.name "ltnotfty"
+ls
+git commit -a 
+git add toolusing/
+git commit -a
+git show
+ls
+cd toolusing/
+ls
+vim git_using 
+ls
+git status 
+git diff 
+ls
+vim ~/.bashc
+ls
+tmux
+ls
+tmux 
+fdisk 
+fdisk --help 
+q
+ls
+sudo reboot
+ls
+pwd
+sudo apt-get install ibus-pinyin 
+ls
+cd /tmp
+ls
+mkdir testing 
+chmod 744 testing/
+touch testing/testing 
+chmod 600 testing/testing 
+ls -ald testing testing/testing 
+ls
+sudo reboot
+sudo apt-get install ibus-pinyin 
+ls
+ibus-setup 
+zhongwen
+sudo reboot
+sudo restart
+sudo reboot
+ls
+pwd
+ifconfig
+ping baidu.com
+ping qq.com
+man touch 
+sudo apt-get install aptitude 
+sudo aptitude install fcitx-bin fcitx-table fcitx-config-gtk fcitx-config-gtk2 fcitx-frontend-all
+sudo aptitude install qt5-default qtcreator qml-module-qtquick-controls2
+im-config 
+ls
+sudo dpkg –i sogoupinyin_4.0.0.1605_amd64.deb
+ls
+pwd
+ls
+ls -al
+ls
+ls -a
+ls
+cd /tmp/
+ls
+pwd 
+`pwd` | ls -l
+`cd ../` | ls -l
+cd ..
+ls
+ls /tmp/ 
+cd /tmp/
+ls
+mkdir testing 
+chmod 744 testing/
+touch testing/testing 
+chmod 600 testing/testing 
+ls -ald testing/ testing/testing 
+su
+ls
+man useradd
+man adduser 
+sudo adduser xiaomizhou
+exit
+ls
+echo hello | od -t C
+echo hello | od -t c
+echo hello | od -t cC
+echo hello | od -t oCc
+echo hello | od -t oCcCf
+echo hello | od -t oCcf
+echo hello | od -t C
+echo hello | od -t oC
+man od
+pwd
+ls
+cd test/
+ls
+lsattr file.txt 
+lsattr -a  file.txt 
+lsattr -d  file.txt 
+lsattr -R  file.txt 
+ls
+file file.txt 
+which which 
+which you
+which -a bash
+which -a apt
+history --help
+which history 
+whereis which 
+whereis -l
+whereis ifconfig 
+whereis passwd
+locate pass
+locate -l pass
+man locate 
+locate -i pass
+locate -il pass
+locate -l pass
+locate -c pass
+find mtime -4 
+find mtime -4 /
+find / mtime -4 
+find / -mtime -4 
+cd /dev/
+ls
+ls -al
+ls
+dumpe2fs /dev/sda1
+dumpe2fs /dev/sda
+sudo dumpe2fs /dev/sda
+sudo dumpe2fs /dev/sda1
+ls 
+df
+cd /
+df
+df /
+df /usr
+df -a /usr
+df -a 
+df -h
+sudo apt-get install ubuntu-restricted-extras
+exit
+ls
+usermod usr
+man usermod 
+ks
+ls
+cd /tmp/
+ls
+stat testing/
+ls
+chown xiaomizhou testing/testing 
+sudo chown xiaomizhou testing/testing
+ls
+cd testing/
+ls
+ls -ald testing 
+cd ..
+ls
+rm testing/
+rm -rf testing/
+ls
+mkdir testing 
+chmod 744 testing/
+touch testing/testing
+chmod 600 testing/testing 
+ls -ald testing/ testing/testing 
+ls
+sudo 
+su 
+ls
+cd testing/
+ls
+cd testing/
+ls testing/te
+ls testing/
+ls -ald testing/
+su
+ls
+vim ~/.bashc
+vim ~/.bashrc
+ls
+su
+ls
+cat
+ls
+vim 
+ls
+pwd
+ls
+cat /etc/passwd
+type 
+type type
+type -t which
+type -t history 
+ls
+cd ..
+ls
+pwd
+history 
+cd ~
+ls
+ls -al
+man ls
+ls
+echo ${PATH}
+echo ${HOME}
+type shell
+which shell 
+whereis shell
+man whereis 
+whereis -l shell
+ls
+clear 
+ls
+ssh-keygen 
+ls
+cd ~/.ssh/
+ls
+cat id_rsa.pub 
+ls
+cd ..
+ls
+mkdir learning 
+cd learning/
+ls
+ls
+cd ..
+ls
+cd test/
+ls
+test_var_1='PATH is $PATH'
+test_var_2="PATH is $PATH"
+echo $test_var_1 
+echo $test_var_2
+ls
+vim test.sh
+ls
+bash test.sh 
+vim test.sh 
+bash test.sh 
+man echo 
+vim test.sh 
+bash test.sh 
+ls
+cp test.sh ../Learning_Notes/
+ls
+cd ..
+ls
+cls
+ls
+myname=linux\ tovalds
+echo $myname 
+ls
+exit
+ls
+sudo apt install ffmpeg 
+ls
+git clone git@github.com:ltnotfty/Learning_Notes.git
+ls
+cd Learning_Notes/
+ls
+git status 
+ls
+cd ..
+ls
+cd learning/
+ls
+cd ..
+ls
+cd Documents/
+ls
+cp linux_basic_cmd.md ../Learning_Notes/
+ls
+cd ../Learning_Notes/
+ls
+git status 
+ls
+type ls
+list 
+ls
+type ls
+type -a ls
+ls
+echo $myname
+myname=ltnotfty
+echo $myname
+ls
+git status 
+ls
+vim test.sh 
+bash test.sh 
+ls
+vim test.sh 
+bash test.sh 
+vim test.sh 
+bash test.sh 
+vim test.sh 
+bash test.sh 
+vim ~/.bashrc 
+ls
+set
+set | more 
+set | vim
+ls
+set | less 
+set | less -n 
+set | less -l
+man less
+ls
+echo $PS1
+man bash
+locale -a
+locale -a | grep CN 
+locale 
+ls
+stat 
+ls
+ps 
+top
+ls
+whereis phone
+whereis which 
+ls
+vim read_sh.sh
+bash read_sh.sh 
+ls
+mkdir shell_all
+cp read_sh.sh ./shell_all/
+rm read_sh.sh 
+mv test.sh ./shell_all/
+ls
+cd shell_all/
+ls
+ps
+cd ..
+ls
+l
+ls
+cd shell_all/
+ls
+vim declare_use.sh
+bash declare_use.sh 
+vim declare_use.sh
+man declare
+declare
+man declare
+declare -x sum
+export | grep sum
+env | grep sum
+env 
+export 
+ls
+vim declare_use.sh 
+bash declare_use.sh 
+vim declare_use.sh 
+bash declare_use.sh 
+vim declare_use.sh 
+bash declare_use.sh 
+vim declare_use.sh 
+sh declare_use.sh 
+bash declare_use.sh 
+export
+man export
+export --help
+whereis export
+ls
+vim test.sh 
+ls
+vim arr_use.sh
+bash arr_use.sh 
+vim arr_use.sh
+bash arr_use.sh 
+vim arr_use.sh 
+./arr_use.sh 
+chmod +x arr_use.sh 
+./arr_use.sh 
+ls
+chmod u+x declare_use.sh 
+./declare_use.sh 
+chmod u+x read_sh.sh 
+./read_sh.sh 
+ls
+chmod u+x test.sh 
+./test.sh 
+ls
+cd ..
+ls
+cd ..
+mkdir personal_improve
+cd personal_improve/
+ls
+vim README
+ls
+vim README 
+ls
+cd ..
+ls
+cd personal_improve/
+ls
+vim README 
+mkdir timer_all
+ls
+cd timer_all/
+ls
+mkdir simplest_timer
+ls
+cd ..
+ls
+cd ..
+ls
+cd Desktop/
+ls
+cd ..
+ls
+cd Learning_Notes/
+ls
+cd shell_all/
+ls
+cd ..
+ls
+git status 
+ls
+ls -al
+exit 
+ls
+cd Learning_Notes/
+ls
+git status 
+vim .swp 
+ls
+exit
+ls
+cd Learning_Notes/
+ls
+ls -al
+sudo reboot 
+ls
+cd Learning_Notes/
+ls
+ls -al
+git status 
+git add linux_basic_cmd.md 
+git add README.md 
+git add shell_all/
+git status 
+git commit -m "learning shell variable"
+git config --global user.name "ltnotfty"
+git config --global user.email  "ltnotfty@126.com"
+git status 
+history 
+git commit -m "learning shell variable"
+git status 
+git push origin 
+ls
+git status 
+ls
+cd shell_all/
+ls
+vim var_del.sh 
+chmod +x var_del.sh 
+./var_del.sh 
+echo $PATH
+vim var_del.sh 
+./var_del.sh 
+ls
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+man echo 
+ls
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+vim var_del.sh 
+./var_del.sh 
+ls
+vim var_test.sh
+ls
+chmod u+x var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+ls
+unset str; var=${str-root} && echo $var;
+unset str; var=${str-root} && echo "var=${var}, str=${str}";
+str=100; var=${str-root} && echo "var=${var}, str=${str}";
+oldvar=100; var=${oldvar-newval} && echo "var=${var}, oldvar=${oldvar}";
+oldvar=; var=${oldvar-newval} && echo "var=${var}, oldvar=${oldvar}";
+unset oldvar; var=${oldvar-newval} && echo "var=${var}, oldvar=${oldvar}";
+unset str;var=${str=pwd} && echo $var $str;
+str="";var=${str=pwd} && echo $var $str;
+str="";var=${str:="pwd"} && echo $var $str;
+str="s";var=${str?"pwd"} && echo $var $str;
+str="";var=${str:?"pwd"} && echo $var $str;
+history 
+man history 
+history 845 855
+history 845
+history | tail -20
+history -n
+history 
+man history 
+man cut
+history | tail 20 | cur -c 8-
+history | tail -20 | cur -c 8-
+history | tail 
+history | tail -n 20 
+history | tail -n 20 | cut -c 8-
+history 
+ls
+vim test.txt
+history | tail -n 26 | head -n 11 | cut -c 8- >> test.txt 
+vim test.txt 
+man cut 
+history | tail -n 26 | head -n 11 | cut -c 1-3 > test.txt 
+vim test.txt 
+history | tail -n 26 | head -n 11 | cut -c 8- > test.txt 
+vim test.txt 
+history 
+history | grep 8[4~9][0~9] 
+history | grep 8[4-9][0-9] 
+history | grep (84[0-9] || 85[0-5]) 
+history | grep 8[45][0-9] 
+history | grep 8[45][0-9] | head -n 16 
+history | grep 8[45][0-9] | head -n 16 | tail -n 11
+history | grep 8[45][0-9] | head -n 16 | tail -n 11 | cut -c 8- 
+vim test.txt 
+history | grep 8[45][0-9] | head -n 16 | tail -n 11 | cut -c 8- >> test.txt 
+vim test.txt 
+ls
+vim var_test.sh 
+history | grep 8[45][0-9] | head -n 16 | tail -n 11 | cut -c 8- >> var_test.sh 
+ls
+vim var_test.sh 
+./var_test.sh 
+vim var_test.sh 
+./var_test.sh 
+alias lm="ls -al | more"
+lm
+unalias lm
+lm
+alias 
+vi
+ls
+alias 
+history 10
+history 100
+history 1000 
+vim ~/.bash_history 
+env | grep HIS
+env 
+export 
+export | grep HIS
+type -a ls
+/bin/ls -a 
+/bin/ls -a --color=auto 
+ls
+cat /etc/issue
+vim /etc/issue
+sudo vim /etc/issue
+R
+ls
+less /etc/motd
+cd /etc/motd
+ls
+cd /etc/
+ls
+ls | grep mo
+su
+ls
+vim /etc/motd
+ls
+su
+ls
+vim 
+vim
+echo $PSa
+echo $PS1
+man bash
+ls
+vim 
+echo ${PS1-}
+su 
+ls
+vim ~/.bash_profile 
+vim /etc/profile
+id -u
+man id
+man .
+. --help
+type -a .
+man sources.list 
+man source
+source --help
+. --help
+cd ~
+ls -a
+vim .bashrc 
+ls
+vim .bashrc 
+ls
+stty -a
+ls
+$$
+$?
+echo $?
+ls
+man $
+man $$
+man bash
+ls
+cd Learning_Notes/
+ls
+cd shell_all/
+ls
+vim io_redirect.sh
+history 
+ls
+vim io_redirect.sh 
+chmod +x io_redirect.sh 
+./io_redirect.sh 
+vim io_redirect.sh 
+ls
+vim io_redirect.sh 
+./io_redirect.sh 
+ls
+vim test.
+ls
+vim test.txt 
+history 
+ls
+vim history_log.sh
+ls
+chmod +x history_log.sh 
+./history_log.sh 
+vim history_log.sh 
+./history_log.sh 
+vim history_log.sh 
+./history_log.sh 
+vim history_log.sh 
+./history_log.sh 
+vim history_log.sh 
+./history_log.sh 
+vim history_log.sh 
+./history_log.sh 
+vim history_log.sh 
+./history_log.sh 
+ls
+vim history_
+vim history_command 
+vim history_
+vim history_command 
+vim history_log.sh 
+history | cut -c 8-
+history | cut -c 8- > ${`pwd`/his; ; '
+
+history | cut -c 8- > ${`pwd`/his; ; '
+
+
+
+history | cut -c 8- 
+history | cut -c 8- > ${`pwd`/history_cmd.txt}
+history | cut -c 8- > `pwd`/history_cmd.txt
