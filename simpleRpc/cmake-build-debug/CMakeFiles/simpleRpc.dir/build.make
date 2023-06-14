@@ -69,10 +69,38 @@ include CMakeFiles/simpleRpc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/simpleRpc.dir/flags.make
 
+CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o: CMakeFiles/simpleRpc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -MF CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.d -o CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+
+CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp > CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+
+CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp -o CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+
+CMakeFiles/simpleRpc.dir/isPrime.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/isPrime.cpp.o: ../isPrime.cpp
+CMakeFiles/simpleRpc.dir/isPrime.cpp.o: CMakeFiles/simpleRpc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/simpleRpc.dir/isPrime.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/simpleRpc.dir/isPrime.cpp.o -MF CMakeFiles/simpleRpc.dir/isPrime.cpp.o.d -o CMakeFiles/simpleRpc.dir/isPrime.cpp.o -c /home/ck/tmp/tmp.yyLDujz6Wp/isPrime.cpp
+
+CMakeFiles/simpleRpc.dir/isPrime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/isPrime.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ck/tmp/tmp.yyLDujz6Wp/isPrime.cpp > CMakeFiles/simpleRpc.dir/isPrime.cpp.i
+
+CMakeFiles/simpleRpc.dir/isPrime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/isPrime.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ck/tmp/tmp.yyLDujz6Wp/isPrime.cpp -o CMakeFiles/simpleRpc.dir/isPrime.cpp.s
+
 CMakeFiles/simpleRpc.dir/main.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
 CMakeFiles/simpleRpc.dir/main.cpp.o: ../main.cpp
 CMakeFiles/simpleRpc.dir/main.cpp.o: CMakeFiles/simpleRpc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/simpleRpc.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/simpleRpc.dir/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/simpleRpc.dir/main.cpp.o -MF CMakeFiles/simpleRpc.dir/main.cpp.o.d -o CMakeFiles/simpleRpc.dir/main.cpp.o -c /home/ck/tmp/tmp.yyLDujz6Wp/main.cpp
 
 CMakeFiles/simpleRpc.dir/main.cpp.i: cmake_force
@@ -85,15 +113,19 @@ CMakeFiles/simpleRpc.dir/main.cpp.s: cmake_force
 
 # Object files for target simpleRpc
 simpleRpc_OBJECTS = \
+"CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o" \
+"CMakeFiles/simpleRpc.dir/isPrime.cpp.o" \
 "CMakeFiles/simpleRpc.dir/main.cpp.o"
 
 # External object files for target simpleRpc
 simpleRpc_EXTERNAL_OBJECTS =
 
+simpleRpc: CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/isPrime.cpp.o
 simpleRpc: CMakeFiles/simpleRpc.dir/main.cpp.o
 simpleRpc: CMakeFiles/simpleRpc.dir/build.make
 simpleRpc: CMakeFiles/simpleRpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable simpleRpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable simpleRpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/simpleRpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

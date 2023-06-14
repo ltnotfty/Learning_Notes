@@ -8,7 +8,7 @@
 					"build" : ".",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.20"
+						"string" : "3.18"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "simpleRpc::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-simpleRpc-Debug-4826b1bbc96b6e73f31e.json",
+					"jsonFile" : "target-simpleRpc-Debug-10a34bc99e3dae6dbc59.json",
 					"name" : "simpleRpc",
 					"projectIndex" : 0
 				}

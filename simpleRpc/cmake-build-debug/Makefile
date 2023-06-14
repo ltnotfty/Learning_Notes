@@ -129,6 +129,54 @@ simpleRpc/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/build
 .PHONY : simpleRpc/fast
 
+CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.o: CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+.PHONY : CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.o
+
+# target to build an object file
+CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+.PHONY : CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o
+
+CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.i: CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+.PHONY : CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.i
+
+# target to preprocess a source file
+CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+.PHONY : CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.i
+
+CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.s: CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+.PHONY : CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.s
+
+# target to generate assembly for a file
+CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+.PHONY : CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.s
+
+isPrime.o: isPrime.cpp.o
+.PHONY : isPrime.o
+
+# target to build an object file
+isPrime.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/isPrime.cpp.o
+.PHONY : isPrime.cpp.o
+
+isPrime.i: isPrime.cpp.i
+.PHONY : isPrime.i
+
+# target to preprocess a source file
+isPrime.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/isPrime.cpp.i
+.PHONY : isPrime.cpp.i
+
+isPrime.s: isPrime.cpp.s
+.PHONY : isPrime.s
+
+# target to generate assembly for a file
+isPrime.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/isPrime.cpp.s
+.PHONY : isPrime.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... simpleRpc"
+	@echo "... CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.o"
+	@echo "... CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.i"
+	@echo "... CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.s"
+	@echo "... isPrime.o"
+	@echo "... isPrime.i"
+	@echo "... isPrime.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

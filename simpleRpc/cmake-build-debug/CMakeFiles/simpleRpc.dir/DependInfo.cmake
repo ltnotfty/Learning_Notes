@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" "CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o" "gcc" "CMakeFiles/simpleRpc.dir/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o.d"
+  "/home/ck/tmp/tmp.yyLDujz6Wp/isPrime.cpp" "CMakeFiles/simpleRpc.dir/isPrime.cpp.o" "gcc" "CMakeFiles/simpleRpc.dir/isPrime.cpp.o.d"
   "/home/ck/tmp/tmp.yyLDujz6Wp/main.cpp" "CMakeFiles/simpleRpc.dir/main.cpp.o" "gcc" "CMakeFiles/simpleRpc.dir/main.cpp.o.d"
   )
 

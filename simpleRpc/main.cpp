@@ -1,8 +1,17 @@
-#include <iostream>
+#include <stdio.h>
+#include <stdbool.h>
 
-int main() {
 
 
-    std::cout << "Hello, World!" << std::endl;
+
+#include "src/isPrime.h"
+
+
+
+
+int main()
+{
+
+
     return 0;
 }

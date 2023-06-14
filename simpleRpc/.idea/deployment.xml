@@ -19,8 +19,11 @@
       <paths name="Filter (cee89e74-aaf0-43a0-bc48-7768f58c58ce)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/tmp.L5l4m5vKt3" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-filter" />
+          </excludedPaths>
         </serverdata>
       </paths>
       <paths name="Remote Host (d24a7d8f-8015-4e0d-9e33-e12828913121)">
@@ -37,6 +40,7 @@
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
           </excludedPaths>
         </serverdata>
       </paths>

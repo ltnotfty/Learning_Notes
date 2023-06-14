@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ck/tmp/tmp.yyLDujz6Wp/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/home/ck/tmp/tmp.yyLDujz6Wp/isPrime.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/home/ck/tmp/tmp.yyLDujz6Wp/isPrime.h">
+			<Option target="simpleRpc"/>
+		</Unit>
 		<Unit filename="/home/ck/tmp/tmp.yyLDujz6Wp/main.cpp">
 			<Option target="simpleRpc"/>
 		</Unit>

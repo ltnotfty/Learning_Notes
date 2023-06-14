@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles/3.18.4/CompilerIdCXX/CMakeCXXCompilerId.cpp
+
+/tmp/tmp.L5l4m5vKt3/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+
+/tmp/tmp.L5l4m5vKt3/isPrime.cpp
+isPrime.h
+/tmp/tmp.L5l4m5vKt3/isPrime.h
+
+/tmp/tmp.L5l4m5vKt3/isPrime.h
+
+/tmp/tmp.L5l4m5vKt3/main.cpp
+stdio.h
+-
+stdbool.h
+-
+isPrime.h
+/tmp/tmp.L5l4m5vKt3/isPrime.h
+
