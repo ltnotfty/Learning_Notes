@@ -20,9 +20,9 @@ struct rpcParam
 
 }__attribute((__packed__));
 
-/** @brief: get val from rpcaParam ptr, and return next rpcParam ptr address
+/** @brief: get val from rpcaParam ptr, and return if success get
  */
-void* getValOf(struct rpcParam *param, void *val);
+bool getValOf(struct rpcParam *param,enum rpcParamType type,void *val);
 
 
 #endif //SIMPLERPC_RPCTYPEVALUE_H

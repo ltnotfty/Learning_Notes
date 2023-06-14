@@ -93,12 +93,12 @@ clean: CMakeFiles/simpleRpc.dir/clean
 CMakeFiles/simpleRpc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=1,2,3 "Built target simpleRpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target simpleRpc"
 .PHONY : CMakeFiles/simpleRpc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/simpleRpc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/simpleRpc.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles 0
 .PHONY : CMakeFiles/simpleRpc.dir/rule

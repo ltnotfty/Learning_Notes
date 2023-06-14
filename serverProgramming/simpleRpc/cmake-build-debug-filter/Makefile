@@ -196,6 +196,222 @@ src/isPrime.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/isPrime.cpp.s
 .PHONY : src/isPrime.cpp.s
 
+src/rpcClient.o: src/rpcClient.cpp.o
+
+.PHONY : src/rpcClient.o
+
+# target to build an object file
+src/rpcClient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o
+.PHONY : src/rpcClient.cpp.o
+
+src/rpcClient.i: src/rpcClient.cpp.i
+
+.PHONY : src/rpcClient.i
+
+# target to preprocess a source file
+src/rpcClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.i
+.PHONY : src/rpcClient.cpp.i
+
+src/rpcClient.s: src/rpcClient.cpp.s
+
+.PHONY : src/rpcClient.s
+
+# target to generate assembly for a file
+src/rpcClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.s
+.PHONY : src/rpcClient.cpp.s
+
+src/rpcParam.o: src/rpcParam.cpp.o
+
+.PHONY : src/rpcParam.o
+
+# target to build an object file
+src/rpcParam.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o
+.PHONY : src/rpcParam.cpp.o
+
+src/rpcParam.i: src/rpcParam.cpp.i
+
+.PHONY : src/rpcParam.i
+
+# target to preprocess a source file
+src/rpcParam.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.i
+.PHONY : src/rpcParam.cpp.i
+
+src/rpcParam.s: src/rpcParam.cpp.s
+
+.PHONY : src/rpcParam.s
+
+# target to generate assembly for a file
+src/rpcParam.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.s
+.PHONY : src/rpcParam.cpp.s
+
+src/rpcParamType.o: src/rpcParamType.cpp.o
+
+.PHONY : src/rpcParamType.o
+
+# target to build an object file
+src/rpcParamType.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o
+.PHONY : src/rpcParamType.cpp.o
+
+src/rpcParamType.i: src/rpcParamType.cpp.i
+
+.PHONY : src/rpcParamType.i
+
+# target to preprocess a source file
+src/rpcParamType.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.i
+.PHONY : src/rpcParamType.cpp.i
+
+src/rpcParamType.s: src/rpcParamType.cpp.s
+
+.PHONY : src/rpcParamType.s
+
+# target to generate assembly for a file
+src/rpcParamType.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.s
+.PHONY : src/rpcParamType.cpp.s
+
+src/rpcRequest.o: src/rpcRequest.cpp.o
+
+.PHONY : src/rpcRequest.o
+
+# target to build an object file
+src/rpcRequest.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o
+.PHONY : src/rpcRequest.cpp.o
+
+src/rpcRequest.i: src/rpcRequest.cpp.i
+
+.PHONY : src/rpcRequest.i
+
+# target to preprocess a source file
+src/rpcRequest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.i
+.PHONY : src/rpcRequest.cpp.i
+
+src/rpcRequest.s: src/rpcRequest.cpp.s
+
+.PHONY : src/rpcRequest.s
+
+# target to generate assembly for a file
+src/rpcRequest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.s
+.PHONY : src/rpcRequest.cpp.s
+
+src/rpcResponse.o: src/rpcResponse.cpp.o
+
+.PHONY : src/rpcResponse.o
+
+# target to build an object file
+src/rpcResponse.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o
+.PHONY : src/rpcResponse.cpp.o
+
+src/rpcResponse.i: src/rpcResponse.cpp.i
+
+.PHONY : src/rpcResponse.i
+
+# target to preprocess a source file
+src/rpcResponse.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.i
+.PHONY : src/rpcResponse.cpp.i
+
+src/rpcResponse.s: src/rpcResponse.cpp.s
+
+.PHONY : src/rpcResponse.s
+
+# target to generate assembly for a file
+src/rpcResponse.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.s
+.PHONY : src/rpcResponse.cpp.s
+
+src/rpcServer.o: src/rpcServer.cpp.o
+
+.PHONY : src/rpcServer.o
+
+# target to build an object file
+src/rpcServer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o
+.PHONY : src/rpcServer.cpp.o
+
+src/rpcServer.i: src/rpcServer.cpp.i
+
+.PHONY : src/rpcServer.i
+
+# target to preprocess a source file
+src/rpcServer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.i
+.PHONY : src/rpcServer.cpp.i
+
+src/rpcServer.s: src/rpcServer.cpp.s
+
+.PHONY : src/rpcServer.s
+
+# target to generate assembly for a file
+src/rpcServer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.s
+.PHONY : src/rpcServer.cpp.s
+
+src/rpcTypeValue.o: src/rpcTypeValue.cpp.o
+
+.PHONY : src/rpcTypeValue.o
+
+# target to build an object file
+src/rpcTypeValue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o
+.PHONY : src/rpcTypeValue.cpp.o
+
+src/rpcTypeValue.i: src/rpcTypeValue.cpp.i
+
+.PHONY : src/rpcTypeValue.i
+
+# target to preprocess a source file
+src/rpcTypeValue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.i
+.PHONY : src/rpcTypeValue.cpp.i
+
+src/rpcTypeValue.s: src/rpcTypeValue.cpp.s
+
+.PHONY : src/rpcTypeValue.s
+
+# target to generate assembly for a file
+src/rpcTypeValue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.s
+.PHONY : src/rpcTypeValue.cpp.s
+
+src/rpcValType.o: src/rpcValType.cpp.o
+
+.PHONY : src/rpcValType.o
+
+# target to build an object file
+src/rpcValType.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o
+.PHONY : src/rpcValType.cpp.o
+
+src/rpcValType.i: src/rpcValType.cpp.i
+
+.PHONY : src/rpcValType.i
+
+# target to preprocess a source file
+src/rpcValType.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.i
+.PHONY : src/rpcValType.cpp.i
+
+src/rpcValType.s: src/rpcValType.cpp.s
+
+.PHONY : src/rpcValType.s
+
+# target to generate assembly for a file
+src/rpcValType.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simpleRpc.dir/build.make CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.s
+.PHONY : src/rpcValType.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -211,6 +427,30 @@ help:
 	@echo "... src/isPrime.o"
 	@echo "... src/isPrime.i"
 	@echo "... src/isPrime.s"
+	@echo "... src/rpcClient.o"
+	@echo "... src/rpcClient.i"
+	@echo "... src/rpcClient.s"
+	@echo "... src/rpcParam.o"
+	@echo "... src/rpcParam.i"
+	@echo "... src/rpcParam.s"
+	@echo "... src/rpcParamType.o"
+	@echo "... src/rpcParamType.i"
+	@echo "... src/rpcParamType.s"
+	@echo "... src/rpcRequest.o"
+	@echo "... src/rpcRequest.i"
+	@echo "... src/rpcRequest.s"
+	@echo "... src/rpcResponse.o"
+	@echo "... src/rpcResponse.i"
+	@echo "... src/rpcResponse.s"
+	@echo "... src/rpcServer.o"
+	@echo "... src/rpcServer.i"
+	@echo "... src/rpcServer.s"
+	@echo "... src/rpcTypeValue.o"
+	@echo "... src/rpcTypeValue.i"
+	@echo "... src/rpcTypeValue.s"
+	@echo "... src/rpcValType.o"
+	@echo "... src/rpcValType.i"
+	@echo "... src/rpcValType.s"
 .PHONY : help
 
 

@@ -102,19 +102,139 @@ CMakeFiles/simpleRpc.dir/src/isPrime.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/isPrime.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/isPrime.cpp -o CMakeFiles/simpleRpc.dir/src/isPrime.cpp.s
 
+CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o: ../src/rpcClient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcClient.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcClient.cpp > CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcClient.cpp -o CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o: ../src/rpcParam.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcParam.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcParam.cpp > CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcParam.cpp -o CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o: ../src/rpcParamType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcParamType.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcParamType.cpp > CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcParamType.cpp -o CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o: ../src/rpcRequest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcRequest.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcRequest.cpp > CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcRequest.cpp -o CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o: ../src/rpcResponse.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcResponse.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcResponse.cpp > CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcResponse.cpp -o CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o: ../src/rpcServer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcServer.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcServer.cpp > CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcServer.cpp -o CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o: ../src/rpcTypeValue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcTypeValue.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcTypeValue.cpp > CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcTypeValue.cpp -o CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.s
+
+CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o: CMakeFiles/simpleRpc.dir/flags.make
+CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o: ../src/rpcValType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o -c /tmp/tmp.L5l4m5vKt3/src/rpcValType.cpp
+
+CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /tmp/tmp.L5l4m5vKt3/src/rpcValType.cpp > CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.i
+
+CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /tmp/tmp.L5l4m5vKt3/src/rpcValType.cpp -o CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.s
+
 # Object files for target simpleRpc
 simpleRpc_OBJECTS = \
 "CMakeFiles/simpleRpc.dir/main.cpp.o" \
-"CMakeFiles/simpleRpc.dir/src/isPrime.cpp.o"
+"CMakeFiles/simpleRpc.dir/src/isPrime.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o" \
+"CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o"
 
 # External object files for target simpleRpc
 simpleRpc_EXTERNAL_OBJECTS =
 
 simpleRpc: CMakeFiles/simpleRpc.dir/main.cpp.o
 simpleRpc: CMakeFiles/simpleRpc.dir/src/isPrime.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcClient.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcParam.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcParamType.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcRequest.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcResponse.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcServer.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcTypeValue.cpp.o
+simpleRpc: CMakeFiles/simpleRpc.dir/src/rpcValType.cpp.o
 simpleRpc: CMakeFiles/simpleRpc.dir/build.make
 simpleRpc: CMakeFiles/simpleRpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable simpleRpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/tmp/tmp.L5l4m5vKt3/cmake-build-debug-filter/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable simpleRpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/simpleRpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

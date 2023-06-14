@@ -22,6 +22,7 @@ enum rpcParamType
     rpc_ulong_type,
     rpc_float_type,
     rpc_double_type,
+    rpc_invalid_type = 15,
 };
 
 

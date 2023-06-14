@@ -91,6 +91,54 @@
 		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/isPrime.h">
 			<Option target="simpleRpc"/>
 		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcClient.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcClient.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcParam.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcParam.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcParamType.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcParamType.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcRequest.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcRequest.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcResponse.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcResponse.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcServer.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcServer.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcTypeValue.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcTypeValue.h">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcValType.cpp">
+			<Option target="simpleRpc"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.L5l4m5vKt3/src/rpcValType.h">
+			<Option target="simpleRpc"/>
+		</Unit>
 		<Unit filename="/tmp/tmp.L5l4m5vKt3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

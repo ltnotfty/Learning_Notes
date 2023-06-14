@@ -1,0 +1,64 @@
+## 1. Layout
+
+### 1.1 Client-Server
+
+### 1.2 Msg Format
+
+#### 1.2.1 common
+head first 2B : msgLen indicate msgLen
+tail last B: magicNum indicate msgEnd
+
+#### 1.2.2 request
+funcNameLen: 1B
+funcName: funcNameLen B
+paramNumber: 1B
+paramType: 2B
+params: paramType.size B
+...
+the last param is return val.
+
+#### 1.2.3 response
+response-code: 1B
+paramType: 2B
+params: paramType.size B
+
+#### 1.2.4 paramType
+char
+uchar
+short
+ushort
+int
+uint
+long
+ulong
+float
+double
+
+#### 1.2.5 response-code
+success
+no_related_func
+packet_error
+
+#### 1.2.6 magicNumber
+0b01101001 <=> 0x69
+
+
+## 2. Issues
+
+### 2.1 Solved
+
+#### 2.1.1 how to call function passing to binary array
+* arg type
+* arg number
+* return val
+* void type process
+
+#### 2.1.2 how design remote call func
+1. funcName
+2. according func name and fix pass type
+
+
+### 2.2 UnSolved
+1. get call info from rpc server
+
+
