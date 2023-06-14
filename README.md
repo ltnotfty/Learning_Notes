@@ -1,2 +1,3 @@
 # Learning_Notes
-Record my learning Notes
+1. shell programming
+2. linux server programming
