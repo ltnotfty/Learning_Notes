@@ -1,0 +1,8 @@
+/usr/a:/usr/b:/usr/c
+/tmp/a:/tmp/b:/tmp/c
+/hed/a:/hed/b:/hed/c
+/etc/a:/etc/b:/etc/c
+usr      :0           :0               Tue Nov  1 00:18   still logged in
+reboot   system boot  5.4.0-131-generi Tue Nov  1 00:17   still running
+
+wtmp begins Tue Nov  1 00:17:03 2022
