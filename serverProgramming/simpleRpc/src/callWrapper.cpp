@@ -3,3 +3,15 @@
 //
 
 #include "callWrapper.h"
+
+
+
+
+void* addCallToRequst(int a, int b)
+{
+
+
+
+
+    return nullptr;
+}

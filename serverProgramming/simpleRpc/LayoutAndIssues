@@ -36,8 +36,7 @@ double
 
 #### 1.2.5 response-code
 success
-no_related_func
-packet_error
+fail
 
 #### 1.2.6 magicNumber
 0b01101001 <=> 0x69
@@ -57,8 +56,18 @@ packet_error
 1. funcName
 2. according func name and fix pass type
 
+#### 2.1.3 how to identify a call
+we need add a call-id to specify a rpc call
+
+#### 2.1.4 simplify response code
+remove no_related_func
+remove packet_error
 
 ### 2.2 UnSolved
 1. get call info from rpc server
+need adjust msg format
+2. retransmit
+
+3. timer probe packet
 
 

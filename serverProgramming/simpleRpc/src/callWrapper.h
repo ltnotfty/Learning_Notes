@@ -12,5 +12,4 @@ void* addCallToRequst(int a, int b);
 
 
 
-
 #endif //SIMPLERPC_CALLWRAPPER_H

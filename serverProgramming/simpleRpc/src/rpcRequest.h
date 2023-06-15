@@ -14,7 +14,7 @@ struct rpcRequest
     char rqsFunName[50];
     uint8_t paramLen;
     rpcParam *param;
-}__attribute__( (packed));
+};
 
 
 void pack(const struct rpcRequest *request, char *data);

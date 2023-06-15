@@ -12,15 +12,13 @@
 enum rpcResponseCode
 {
     rpc_msg_ok = 0,
-    rpc_func_not_exist,
-    rpc_packet_error,
-    rpc_invalid = 7
+    rpc_msg_fail
 };
 struct rpcResponse
 {
     enum rpcResponseCode code;
     rpcParam param;
-}__attribute((__packed__));
+};
 
 
 
