@@ -1,15 +1,15 @@
 #just one step
 all: hello world
 
-hello: hello.c
-	cc hello.c -o hello
-
-
+hello: hello.c mymath.o
+	cc hello.c mymath.o -o hello
 world:	world.c
 	cc world.c -o world
 
+mymath.o: myMath.c myMath.h
+	cc -c myMath.c  
 clean:
-	rm hello.o hello world world.o
+	rm *.o hello world
 
 # two steps
 # hello: hello.o

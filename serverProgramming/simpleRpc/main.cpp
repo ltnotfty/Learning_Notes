@@ -17,7 +17,9 @@
 int main()
 {
 
-    getaddrinfo();
+    NI_MAXHOST;
+
+
 
     return 0;
 }
