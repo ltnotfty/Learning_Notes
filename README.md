@@ -1,5 +1,40 @@
-# Learning_Notes
-1. shell programming
-2. linux server programming
-3. build Tools
-4. toy Utils
+1. server
+2. shell
+5. toy utils
+3. unix sys
+4. build tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
