@@ -1,4 +1,4 @@
-TARGET:=
+TARGET=
 
 
 pthread_create: pthread_create.c
