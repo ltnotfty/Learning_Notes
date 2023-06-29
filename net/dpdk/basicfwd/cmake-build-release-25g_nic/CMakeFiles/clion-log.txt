@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.mtKLwuZwrg -B /tmp/tmp.mtKLwuZwrg/cmake-build-release-25g_nic
+--  >> aarch64 << 
+-- AMD64
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.mtKLwuZwrg/cmake-build-release-25g_nic

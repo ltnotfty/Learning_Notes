@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="basicfwd"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basicfwd">
+				<Option output="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/basicfwd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/data/dpdk-19.11/arm64-octeontx2-linuxapp-gcc/include"/>
+					<Add directory="/tmp/tmp.mtKLwuZwrg/src"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 basicfwd"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basicfwd/fast">
+				<Option output="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/basicfwd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/data/dpdk-19.11/arm64-octeontx2-linuxapp-gcc/include"/>
+					<Add directory="/tmp/tmp.mtKLwuZwrg/src"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/aarch64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/aarch64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/aarch64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 basicfwd/fast"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/tmp/tmp.mtKLwuZwrg/cmake-build-debug-25g_nic/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.mtKLwuZwrg/main.cpp">
+			<Option target="basicfwd"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.mtKLwuZwrg/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

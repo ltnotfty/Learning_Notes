@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.mtKLwuZwrg/main.cpp
+stdint.h
+-
+inttypes.h
+-
+rte_eal.h
+-
+rte_ethdev.h
+-
+rte_cycles.h
+-
+rte_lcore.h
+-
+rte_mbuf.h
+-
+rte_config.h
+-
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+
