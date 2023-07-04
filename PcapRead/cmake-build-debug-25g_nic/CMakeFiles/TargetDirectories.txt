@@ -1,0 +1,3 @@
+/tmp/tmp.iYQHxnbC4z/cmake-build-debug-25g_nic/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.iYQHxnbC4z/cmake-build-debug-25g_nic/CMakeFiles/edit_cache.dir
+/tmp/tmp.iYQHxnbC4z/cmake-build-debug-25g_nic/CMakeFiles/PcapRead.dir
