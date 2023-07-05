@@ -62,7 +62,6 @@ void pkt_handler(u_char *args, const struct pcap_pkthdr *pcap_pkt_hdr, const u_c
     uint8_t ip_type = ip_hdr->protocol;
     data_len = ip_hdr->total_length + 14;
 
-    print_ip_addr(ip_hdr);
 
     if ( ip_type != IPPROTO_TCP && ip_type != IPPROTO_UDP)
         return;
@@ -79,7 +78,7 @@ void pkt_handler(u_char *args, const struct pcap_pkthdr *pcap_pkt_hdr, const u_c
         tran_layer_len = udp_hdr_len;
 
         dport = ntohs(udp_hdr->u_dport);
-        print_port(udp_hdr, IPPROTO_UDP);
+
     }
     else {
         const struct lt_tcphdr *tcp_hdr = (const struct  lt_tcphdr *) packet;
@@ -87,14 +86,13 @@ void pkt_handler(u_char *args, const struct pcap_pkthdr *pcap_pkt_hdr, const u_c
         tran_layer_len  = tcp_hdr_len;
 
         dport = ntohs(tcp_hdr->t_dport);
-        print_port(tcp_hdr, IPPROTO_TCP);
     }
     packet += tran_layer_len;
 
     const u_char *payload_ptr = packet ;
     uint16_t payload_len = data_len - eth_layer_len - ip_hdr_len - tran_layer_len;
-
-
+    printf("pkt id: %d\t", ++pkt_cnt);
+    parse_radius_hdr(payload_ptr, payload_len);
 }
 
 

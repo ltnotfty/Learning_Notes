@@ -11,13 +11,16 @@
 
 #include "lt_debug.h"
 
-#include "RadiusSaver.h"
 
 
-
+uint32_t pkt_cnt = 0;
 
 int main( int argc, char *argv[])
 {
+
+#if __BYTE_ORDER == __LITTLE_ENDIAN
+
+#endif
 
 
     if ( argc != 2)

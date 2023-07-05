@@ -13,9 +13,10 @@
 #include <netinet/ether.h>
 
 #include "ProtoHeader.h"
+#include "RadiusInfo.h"
 
 
-
+extern uint32_t pkt_cnt;
 
 void pkt_handler(u_char *args, const struct pcap_pkthdr *pcap_pkt_hdr, const u_char *packet);
 void print_ip_addr( const struct lt_iphdr *);

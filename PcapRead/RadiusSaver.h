@@ -10,6 +10,7 @@
 #include "RadiusInfo.h"
 
 #define MAX_RADIUS_NUM 100000
+/*
 
 struct RadiusSaver
 {
@@ -17,10 +18,13 @@ struct RadiusSaver
     uint32_t radius_num_cnt;
 };
 
-static inline RadiusSaver radius_saver;
+static inline struct RadiusSaver radius_saver;
 
 static void init_radius_saver();
 
+*/
+
+
+
 #endif //PCAPREAD_RADIUSSAVER_H
 
-#pragma clang diagnostic pop
