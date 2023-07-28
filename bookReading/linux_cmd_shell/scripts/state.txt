@@ -1,0 +1,8 @@
+egg
+list
+pwd
+oop
+hook
+new
+old
+new york
